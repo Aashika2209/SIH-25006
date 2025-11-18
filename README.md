@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 18-11-2025
+## Reference Number: 21222411001
+## Name:Aashika Jain.G
 ## Problem Title
 SIH 25006: Development of a Digital Farm Management Portal for implementing Biosecurity measures in Pig and Poultry Farms
 ## Problem Description
@@ -41,27 +41,70 @@ Ministry of Fisheries, Animal Husbandry & Dairying
 Department of Animal Husbandry & Dairying (DoAH&D)
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+##### Detailed Explanation
+
+We propose the development of a Digital Farm Management Portal that integrates multiple functionalities for effective biosecurity management:
+Farm Risk Assessment Module: Generates farm-specific biosecurity risk scores and recommendations.
+Training & Guidelines: Provides interactive tutorials, videos, and best practices.
+Compliance Tracker: Monitors adherence to regulatory frameworks and generates alerts for non-compliance.
+Real-Time Alerts & Dashboard: Detects disease outbreaks using integrated data feeds and sends notifications.
+Collaboration Platform: Facilitates communication among farmers, veterinarians, and extension workers.
+Multilingual, Mobile-First Interface: Ensures accessibility for remote users.
+Analytics & Reporting: Aggregates farm-level data for policy support and trend analysis.
+##### How it Addresses the Problem
+Empowers farmers with practical knowledge.
+Provides a central platform for tracking and reporting biosecurity measures.
+Reduces disease outbreaks and improves farm productivity.
+Supports government authorities with actionable data.
+##### Innovation and Uniqueness
+Customizable and dynamic risk assessment tailored to local conditions.
+Integration of training, compliance, alerts, and analytics in a single platform.
+Mobile-first, multilingual design for rural accessibility.
+Data-driven collaboration among the livestock ecosystem stakeholders.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+• Frontend: React.js / Angular / Flutter for mobile<br>
+• Backend: Node.js / Django / Flask<br>
+• Database: MongoDB / PostgreSQL<br>
+• Cloud & Hosting: AWS / Azure / Google Cloud<br>
+• Analytics & Alerts: Python (pandas, NumPy), Firebase/Push notifications<br>
+• GIS Integration: For mapping farms and outbreaks<br>
+• Methodology & Process<br>
+Requirement Analysis & Stakeholder Interviews<br>
+Platform Design (Wireframes & UI/UX)<br>
+Development of Core Modules (Risk Assessment, Compliance Tracker, Alerts)<br>
+Integration of Training & Collaboration Features<br>
+Pilot Testing with selected farms<br>
+Iteration & Deployment<br>
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+
+Analysis
+Technically feasible using existing web and mobile technologies.<br>
+Can be scaled to multiple regions and languages.<br>
+Low-cost deployment using cloud infrastructure ensures affordability for small farmers.<br>
+Potential Challenges<br>
+Limited digital literacy among farmers.<br>
+Connectivity issues in rural areas.<br>
+Data privacy and security concerns.<br>
+Strategies to Overcome Challenges<br>
+Include offline mode with local data caching.<br>
+Conduct training and workshops for digital literacy.<br>
+Implement robust encryption and access control mechanisms.<br>
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+Potential Impact
+Farmers adopt better biosecurity measures, reducing disease spread.<br>
+Government agencies receive accurate and timely data for surveillance.<br>
+Improved livestock health and productivity.<br>
+Enhanced resilience of rural livelihoods.<br>
+Benefits<br>
+Social: Better farmer awareness, education, and collaboration.<br>
+Economic: Reduced losses from disease outbreaks, higher productivity.<br>
+Environmental: Reduced need for antibiotics and disease-related culling.<br>
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+FAO Guidelines on Biosecurity in Livestock Production<br>
+World Organisation for Animal Health (OIE) – Biosecurity Standards<br>
+Ministry of Fisheries, Animal Husbandry & Dairying, India – Reports & Guidelines<br>
+Peer-reviewed studies on risk assessment tools and digital platforms in livestock management<br>
